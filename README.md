@@ -39,7 +39,7 @@ Pastikan Anda sudah menginstal Python, Node.js, dan server MySQL (misalnya dari 
 ### 1. Backend Setup
 ```bash
 # Clone repository
-git clone [https://github.com/USERNAME/REPO_ANDA.git](https://github.com/USERNAME/REPO_ANDA.git)
+git clone [https://github.com/noobaja/Talent-Hub-Project.git](https://github.com/noobaja/Talent-Hub-Project.git)
 cd REPO_ANDA/backend
 
 # Buat dan aktifkan virtual environment
